@@ -43,6 +43,20 @@ Topics include:
 
 ---
 
+## 📈 GitHub Stats
+
+![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashriva16&show_icons=true&theme=default&count_private=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashriva16&layout=compact&hide=Jupyter%20Notebook&theme=default)
+
+---
+
+## 🗓️ GitHub Activity Graph
+
+[![Ankit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashriva16&theme=github-compact)](https://github.com/ashriva16)
+
+---
+
 ## 🌐 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ashriva16/)
