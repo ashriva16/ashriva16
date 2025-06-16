@@ -2,7 +2,7 @@
 
 🔬 Researcher | Data Scientist | Scientific ML | Materials Informatics  
 🏢 Oak Ridge National Laboratory | Knoxville, TN, USA  
-🌐 [ashriva.in](https://www.ashriva.in) | 📫 [contact@ashriva.in](mailto:contact@ashriva.in)
+<!--🌐 [ashriva.in](https://www.ashriva.in) | 📫 [contact@ashriva.in](mailto:contact@ashriva.in)-->
 
 ---
 
