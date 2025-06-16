@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ankit Shrivastava
 
-🔬 Researcher | Data Scientist | Scientific ML | Materials Informatics  
+🔬 Researcher | Data Scientist | Scientific ML   
 🏢 Oak Ridge National Laboratory | Knoxville, TN, USA  
 <!--🌐 [ashriva.in](https://www.ashriva.in) | 📫 [contact@ashriva.in](mailto:contact@ashriva.in)-->
 
