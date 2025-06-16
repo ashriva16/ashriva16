@@ -47,8 +47,6 @@ Topics include:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ashriva16/)
 - 🧑‍💻 [Personal Website](https://www.ashriva.in)
-- 🐦 [Twitter](https://twitter.com/ashriva16)
-- 📫 [Email](mailto:contact@ashriva.in)
 
 ---
 
