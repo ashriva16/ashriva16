@@ -1,4 +1,19 @@
-# 👋 Hi, I'm Ankit Shrivastava
+```mermaid
+mindmap
+</br>
+  Scientific Computing
+    FEM
+    LAMMPS
+    C, C++
+    MPI, CUDA
+  Scientific ML
+    CNN / PINNs
+    Uncertainty Quantification
+    Active Learning
+    Python, PyTorch, Tensorflow
+```
+
+# 👋 Hi, I am Ankit Shrivastava
 
 🔬 Researcher | Data Scientist | Scientific ML   
 🏢 Oak Ridge National Laboratory | Knoxville, TN, USA  
