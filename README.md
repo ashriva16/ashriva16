@@ -1,16 +1,16 @@
 ```mermaid
 mindmap
 </br>
-  Scientific Computing
-    FEM
-    LAMMPS
-    C, C++
-    MPI, CUDA
-  Scientific ML
-    CNN / PINNs
-    Uncertainty Quantification
-    Active Learning
-    Python, PyTorch, Tensorflow
+  ((Scientific Computing))
+    ((FEM))
+    ((LAMMPS))
+    ((C, C++))
+    ((MPI, CUDA))
+  ((Scientific ML))
+    ((CNN / PINNs))
+    ((Uncertainty Quantification))
+    ((Active Learning))
+    ((Python, PyTorch, Tensorflow))
 ```
 
 # 👋 Hi, I am Ankit Shrivastava
