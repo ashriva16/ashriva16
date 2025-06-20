@@ -1,4 +1,4 @@
-```mermaid
+<!--```mermaid
 mindmap
 </br>
   ((Scientific Computing))
@@ -11,7 +11,8 @@ mindmap
     ((Uncertainty Quantification))
     ((Active Learning))
     ((Python, PyTorch, Tensorflow))
-```
+```-->
+![](banner.png)
 
 # 👋 Hi, I am Ankit Shrivastava
 
