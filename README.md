@@ -18,6 +18,9 @@ mindmap
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-100000?style=flat&logo=googlescholar&logoColor=white&labelColor=4c8cbf)](https://scholar.google.com/citations?user=Zx4v13gAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4445-8817)
 [![ResearcherID](https://img.shields.io/badge/ResearcherID-grey?style=flat)](https://www.webofscience.com/wos/author/record/AFY-6130-2022)
+
+## 🌐 Let's Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashriva16/)
 [![Website](https://img.shields.io/badge/Website-ashriva.in-0A0A0A?style=flat&logo=About.me&logoColor=white)](https://www.ashriva.in)
 
@@ -92,13 +95,6 @@ Topics include:
 ## 🗓️ GitHub Activity Graph
 
 [![Ankit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashriva16&theme=github-compact)](https://github.com/ashriva16)
-
----
-
-## 🌐 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ashriva16/)
-- 🧑‍💻 [Personal Website](https://www.ashriva.in)
 
 ---
 
