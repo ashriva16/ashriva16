@@ -30,15 +30,7 @@ mindmap
 🏢 Oak Ridge National Laboratory | Knoxville, TN, USA  
 <!--🌐 [ashriva.in](https://www.ashriva.in) | 📫 [contact@ashriva.in](mailto:contact@ashriva.in)-->
 
----
-
-## 🧠 About Me
-
-I'm a researcher working at the intersection of materials science, machine learning, and data-driven experimentation. I specialize in **scientific machine learning (SciML)**, **numerical modeling**, and **optimization of physical systems**. At Oak Ridge National Laboratory, I develop intelligent experimentation strategies to accelerate scientific discovery.
-
----
-
-## 🧪 Core Expertise
+## Research Toolkit & Computational Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -55,6 +47,8 @@ I'm a researcher working at the intersection of materials science, machine learn
 ![FEniCS](https://img.shields.io/badge/FEniCS-A00000?style=flat&logo=python&logoColor=white)
 ![LAMMPS](https://img.shields.io/badge/LAMMPS-00599C?style=flat)
 
+**Research Domains**
+
 - 🧠 Scientific Machine Learning (SciML) 
 - 🧮 Numerical Modeling & Simulation  
 - 🔁 Bayesian Optimization & Active Learning  
@@ -62,6 +56,14 @@ I'm a researcher working at the intersection of materials science, machine learn
 - 📊 Scientific Data Analysis & Visualization
 
 ---
+
+<!-- ## 🧠 About Me
+
+I'm a researcher working at the intersection of materials science, machine learning, and data-driven experimentation. I specialize in **scientific machine learning (SciML)**, **numerical modeling**, and **optimization of physical systems**. At Oak Ridge National Laboratory, I develop intelligent experimentation strategies to accelerate scientific discovery.
+
+---
+
+## 🧪 Core Expertise-->
 
 ## 📂 Featured Projects
 
